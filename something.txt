@@ -1,0 +1,6 @@
+hey this is a file
+
+
+staging.
+
+is when you run git add <name of file> to select the changes you want to commit.
